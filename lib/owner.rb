@@ -67,3 +67,4 @@ class Owner
 
 end
 binding.pry
+0
