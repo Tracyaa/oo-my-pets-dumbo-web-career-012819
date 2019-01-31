@@ -7,13 +7,15 @@ class Owner
 
   def initialize(name)
     @count = 0
-    
+
     @@all << self
   end
 
   def self.all
     @@all
   end
+
+  
 
 
 
