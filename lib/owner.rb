@@ -3,7 +3,7 @@ class Owner
   # attr_reader :species
   attr_accessor :all, :count
 
-  @@all_owners = []
+  # @@all_owners = []
   def initialize
     @all = self
     @count = @all.length
