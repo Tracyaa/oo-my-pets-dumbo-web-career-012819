@@ -59,7 +59,7 @@ class Owner
   end
 
   def sell_pets
-    
+
     @pets = {:fishes => [], :dogs => [], :cats => []}
 
   end
@@ -68,5 +68,5 @@ class Owner
 
 end
 
-binding.pry
+# binding.pry
 0
