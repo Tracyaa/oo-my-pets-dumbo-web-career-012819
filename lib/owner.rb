@@ -5,7 +5,7 @@ class Owner
 
   @@all_owners = []
 
-  def initialize(owner)
+  def initialize
     @owner = owner
     @count = @owner.length
 
