@@ -10,10 +10,7 @@ class Owner
     # @species = cat or dog or fish
     @@all << self
   end
-  def count
-    @@all.length
-  end
-
+  
   def self.all
     @@all
   end
