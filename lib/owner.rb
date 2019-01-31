@@ -2,7 +2,7 @@ class Owner
   # attr_writer
   attr_reader :species
   attr_accessor :all, :count
-
+  
   def initialize
     @all = all_owners
     @count = @all.length
