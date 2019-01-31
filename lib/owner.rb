@@ -20,7 +20,7 @@ class Owner
   end
 
   def reset_all
-    
+
   end
 
 
