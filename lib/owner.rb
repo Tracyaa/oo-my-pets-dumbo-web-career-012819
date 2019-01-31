@@ -60,7 +60,7 @@ class Owner
 
   def sell_pets
     @@all.each do |pet|
-      pet_hash.each do |sad|
+      .each do |sad|
         sad.mood = "nervous"
       end
     end
