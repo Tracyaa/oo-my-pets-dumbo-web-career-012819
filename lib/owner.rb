@@ -60,7 +60,7 @@ class Owner
 
   def sell_pets
     @pets = {:fishes => [], :dogs => [], :cats => []}
-    @@all.each do |
+    @@all.each do |pet|
   end
 
 
