@@ -7,7 +7,6 @@ class Owner
 
   def initialize
     @count += 1
-
     @@all << self
   end
 
