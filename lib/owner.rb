@@ -24,7 +24,7 @@ class Owner
 
   def species
 
-    en
+  end
 
 
 
