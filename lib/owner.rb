@@ -8,6 +8,7 @@ class Owner
     @all = []
     @count = 1
     # @species = cat or dog or fish
+    @@all << self
   end
 
   def self.all
