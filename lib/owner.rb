@@ -62,6 +62,7 @@ class Owner
     self.all.pets.each do |pet, pet_hash|
       pet_hash.each do |sad|
         sad.mood = "nervous"
+      end
     end
   end
 
