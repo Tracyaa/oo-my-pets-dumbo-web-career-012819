@@ -9,6 +9,7 @@ class Owner
     @species = specie
     @name = nil
     @pets = {:fishes => [], :dogs => [], :cats => []}
+    
     @@all << self
   end
 
