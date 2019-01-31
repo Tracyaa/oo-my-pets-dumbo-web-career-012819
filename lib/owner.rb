@@ -16,8 +16,6 @@ class Owner
     @@all_owners
   end
 
-  def count
-    @count = 0
-  end
+
 
 end
