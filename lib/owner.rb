@@ -2,8 +2,8 @@ class Owner
   # attr_writer
   # attr_reader
   attr_accessor :all, :count
-  
 
+  @@all = []
   def initialize(name)
     @all = []
     @count = 1
