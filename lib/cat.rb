@@ -4,7 +4,7 @@ class Cat
   attr_accessor
 
   def initialize
-    @
+    @name = name
 
   end
 end
