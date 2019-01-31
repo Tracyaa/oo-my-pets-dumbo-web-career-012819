@@ -50,7 +50,7 @@ class Owner
   end
 
   def play_with_cats
-    @pets[:fishes].each {|fish|}
+    @pets[:fishes].each {|fish| fish.mood}
   end
 
 
