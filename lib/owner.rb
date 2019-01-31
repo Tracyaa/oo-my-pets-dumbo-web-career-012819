@@ -1,7 +1,7 @@
 class Owner
   # attr_writer
   # attr_reader
-  attr_accessor :count
+  # attr_accessor :count
 
   @@all = []
 
@@ -19,7 +19,7 @@ class Owner
     @@all.length
   end
 
-  def 
+  def
 
 
 
