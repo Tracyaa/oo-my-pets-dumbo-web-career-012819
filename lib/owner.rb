@@ -15,7 +15,7 @@ class Owner
   def all_owners
     @@all_owners
   end
-
+  
 
 
 end
