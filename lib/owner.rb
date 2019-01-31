@@ -19,7 +19,7 @@ class Owner
     @@all.length
   end
 
-  def
+  def reset_all
 
 
 
