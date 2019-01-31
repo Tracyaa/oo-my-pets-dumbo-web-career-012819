@@ -5,7 +5,7 @@ class Owner
 
   @@all = []
 
-  def initialize(specie)
+  def initialize(name)
     @species = specie
     @name = nil
 
