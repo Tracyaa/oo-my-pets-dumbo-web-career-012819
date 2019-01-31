@@ -3,5 +3,5 @@ class Cat
   attr_reader
   attr_accessor
 
-  def 
+  def initialize
 end
