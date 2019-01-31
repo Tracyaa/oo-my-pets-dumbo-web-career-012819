@@ -11,6 +11,7 @@ class Owner
   end
 
   def all
+    @all << self
 
 
 
