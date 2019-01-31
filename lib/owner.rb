@@ -8,5 +8,6 @@ class Owner
     @owner = []
 
   end
-  
+
+  def all_owners
 end
