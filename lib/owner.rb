@@ -7,7 +7,6 @@ class Owner
 
   def initialize(name)
     @count = 0
-    # @species = cat or dog or fish
     @@all << self
   end
 
