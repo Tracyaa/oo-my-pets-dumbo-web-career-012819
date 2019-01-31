@@ -1,7 +1,7 @@
 class Owner
   # attr_writer
   # attr_reader :species
-  attr_accessor :all, :count
+  attr_accessor :all
 
   # @@all_owners = []
   def initialize
