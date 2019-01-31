@@ -8,5 +8,5 @@ class Owner
     @owner = []
 
   end
-
+  
 end
