@@ -11,6 +11,7 @@ class Owner
     @@all << self
   end
 
+  def count
   def self.all
     @@all
   end
