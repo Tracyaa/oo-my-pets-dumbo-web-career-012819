@@ -4,10 +4,10 @@ class Owner
   attr_accessor
 
   @@all_owners = []
-  
+
   def initialize
     @owner = []
-
+    @count = 0
   end
 
   def all_owners
