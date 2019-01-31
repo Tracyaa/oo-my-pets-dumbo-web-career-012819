@@ -15,7 +15,7 @@ class Owner
     @@all
   end
 
-  
+  def count
 
 
 
