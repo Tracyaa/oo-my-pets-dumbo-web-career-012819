@@ -11,3 +11,5 @@ class Cat
 
 
 end
+
+new_
