@@ -1,8 +1,8 @@
 class Owner
   attr_writer
-  attr_reader
-  attr_accessor :count
+  attr_reader :count
 
+  attr_accessor
   @@all = []
 
   def initialize
@@ -14,7 +14,7 @@ class Owner
   def count
     @count += 1
   end
-  
+
   def self.all
     @@all
   end
