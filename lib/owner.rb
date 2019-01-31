@@ -9,7 +9,7 @@ class Owner
     @count = @all.length
     # @species = cat or dog or fish
   end
-
+  
 
 
 end
