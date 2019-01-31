@@ -4,8 +4,8 @@ class Owner
   attr_accessor
 
   def initialize
-    @owner = owner
+    @owner = []
 
   end
-  
+
 end
