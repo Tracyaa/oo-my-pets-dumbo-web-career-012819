@@ -66,5 +66,9 @@ class Owner
 
 
 end
+fido = Dog.new("Fido")
+tabby = Cat.new("Tabby")
+nemo = Fish.new("Nemo")
+[fido, tabby, nemo].each {|o| o.mood = "happy" }
 binding.pry
 0
