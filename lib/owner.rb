@@ -4,6 +4,7 @@ class Owner
   attr_accessor
 
   @@all_owners = []
+  
   def initialize
     @owner = []
 
