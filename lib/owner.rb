@@ -64,11 +64,11 @@ class Owner
         pet.mood = "nervous"
       end
     end
-    @pets = {:fishes => [], :dogs => [], :cats => []}
+    # @pets = {:fishes => [], :dogs => [], :cats => []}
   end
 
   def list_pets
-    
+
   end
 
 
