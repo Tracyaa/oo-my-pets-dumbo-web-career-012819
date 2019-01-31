@@ -12,4 +12,4 @@ class Cat
 
 end
 
-new_
+new_cat = 
