@@ -70,7 +70,7 @@ class Owner
 
   def list_pets
     @pets.each do |type, pets|
-      "I have 2 fish, 3 dog(s), and 1 cat(s)."
+      "I have #{@pets[type].size}2 fish, 3 dog(s), and 1 cat(s)."
       @pets[type].size
     end
   end
