@@ -10,7 +10,7 @@ class Owner
     # @species = cat or dog or fish
   end
   def all
-    
+      @all << self
   end
   def self.all
     @all << self
