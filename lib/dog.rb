@@ -1,3 +1,9 @@
 class Dog
-  # code goes here
+  attr_writer
+  attr_reader
+  attr_accessor
+
+  def initialize
+
+  end
 end
