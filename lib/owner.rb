@@ -8,7 +8,7 @@ class Owner
   def initialize(specie)
     @species = specie
     @name = nil
-
+    @pets = {}
     @@all << self
   end
 
@@ -33,7 +33,7 @@ class Owner
   end
 
   def buy_fish
-    
+
   end
 
 
