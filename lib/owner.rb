@@ -5,7 +5,7 @@ class Owner
 
   @@all_owners = []
   def initialize
-    @all = all_owners
+    @all = self
     @count = @all.length
     # @species = cat or dog or fish
   end
