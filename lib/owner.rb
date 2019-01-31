@@ -5,7 +5,7 @@ class Owner
 
   @@all = []
 
-  def initialize(name)
+  def initialize(species)
     @species = "human"
     @name = name
 
@@ -27,7 +27,7 @@ class Owner
   def say_species
     "I am a #{@species}."
   end
-  
+
 
 
 
