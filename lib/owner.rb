@@ -9,6 +9,7 @@ class Owner
     @count = 0
 
     @@all << self
+    @count += 1
   end
   
   def self.all
