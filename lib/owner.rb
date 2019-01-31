@@ -17,5 +17,6 @@ class Owner
   end
 
   def count
+    @count = 0
 
 end
