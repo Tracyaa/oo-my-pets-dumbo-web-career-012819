@@ -8,7 +8,7 @@ class Owner
   def initialize
     @count += 1
 
-    @@all_owners << self
+    @@all << self
   end
 
   def all_owners
