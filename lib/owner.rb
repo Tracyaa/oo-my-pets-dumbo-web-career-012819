@@ -69,7 +69,7 @@ class Owner
   end
 
   def list_pets
-    str = "I have #{@pets[:fish].length} fish"
+"I have #{@pets[:fish].length} fish, "
     @pets.each do |type, pets|
       str += "2 fish, 3 dog(s), and 1 cat(s)."
       @pets[type].
