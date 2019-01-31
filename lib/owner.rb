@@ -10,7 +10,7 @@ class Owner
     @@all << self
   end
   def count
-    @count += 1
+    @@all.length
   end
 
   def self.all
