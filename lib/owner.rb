@@ -70,6 +70,7 @@ class Owner
 
   def list_pets
     @pets.each do |type, pets|
+      
       @pets[type]
     end
   end
