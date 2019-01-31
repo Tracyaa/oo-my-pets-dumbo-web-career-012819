@@ -22,9 +22,7 @@ class Owner
     @@all = []
   end
 
-  def species
 
-  end
 
 
 
