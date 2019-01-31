@@ -18,5 +18,6 @@ class Owner
 
   def count
     @count = 0
+  end
 
 end
