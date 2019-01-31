@@ -7,7 +7,7 @@ class Owner
   def initialize
     @count = 0
 
-    
+    @species
     @@all << self
   end
 
