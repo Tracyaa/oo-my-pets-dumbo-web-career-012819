@@ -12,7 +12,7 @@ class Owner
   end
 
   def all_owners
-    @@all_owners
+    @@all
   end
 
 
