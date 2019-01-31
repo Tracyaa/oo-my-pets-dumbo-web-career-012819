@@ -60,9 +60,7 @@ class Owner
 
   def sell_pets
     @pets = {:fishes => [], :dogs => [], :cats => []}
-    @pets.each do |pet_hash, arr|
-      arr.each {|one| one.mood = "nervous"}
-    end
+    
   end
 
 
