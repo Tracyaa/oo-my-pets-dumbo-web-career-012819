@@ -61,6 +61,7 @@ class Owner
   def sell_pets
     @pets.each do |type, pets|
       pets.each do |pet|
+        pet
     @pets = {:fishes => [], :dogs => [], :cats => []}
 
   end
