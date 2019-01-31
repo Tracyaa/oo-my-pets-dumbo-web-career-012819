@@ -1,3 +1,4 @@
+require 'pry'
 class Owner
   # attr_writer
   attr_reader :species
@@ -61,7 +62,7 @@ class Owner
     self.all.each do |pet|
   end
 
-  
+
 
 
 
