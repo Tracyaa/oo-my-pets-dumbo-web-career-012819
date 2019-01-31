@@ -11,6 +11,7 @@ class Owner
 
   def all
     self
+  end
 
 
 
