@@ -12,4 +12,4 @@ class Cat
 
 end
 
-new_cat = Cat.new
+new_cat = Cat.new("name")
