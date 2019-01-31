@@ -3,7 +3,7 @@ class Owner
   attr_reader :species
   attr_accessor :count
 
-  def initialize()
+  def initialize
     @count = @@all.length
     # @species = cat or dog or fish
     @@all << self
