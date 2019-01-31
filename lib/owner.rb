@@ -12,8 +12,7 @@ class Owner
   end
 
   def self.all
-    @all << self
-    @count += 1
+    @all
   end
 
 
