@@ -6,8 +6,8 @@ class Owner
   @@all = []
 
   def initialize
-    @count += 1
-    
+    @count = 0
+
     @@all << self
   end
 
