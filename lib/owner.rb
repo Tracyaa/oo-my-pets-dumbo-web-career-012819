@@ -59,7 +59,7 @@ class Owner
   end
 
   def sell_pets
-    self.all.pets
+    self.all.pets.each
   end
 
 
