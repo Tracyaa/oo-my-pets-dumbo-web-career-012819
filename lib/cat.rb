@@ -1,11 +1,12 @@
 class Cat
   attr_writer
   attr_reader :name
-  attr_accessor
+  attr_accessor :mood
 
   def initialize
     @cat = cat
     @name = name
+
 
 
   end
