@@ -9,7 +9,7 @@ class Owner
     @species = specie
     @name = nil
     @pets = {:fishes => [], :dogs => [], :cats => []}
-    
+
     @@all << self
   end
 
@@ -34,7 +34,7 @@ class Owner
   end
 
   def buy_fish
-
+    
   end
 
 
