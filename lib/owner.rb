@@ -1,7 +1,7 @@
 class Owner
   attr_writer
   attr_reader
-  attr_accessor :owner, :count
+  attr_accessor :count
 
   @@all = []
 
