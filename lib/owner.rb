@@ -4,7 +4,7 @@ class Owner
   attr_accessor :count
 
   def initialize
-    @all
+    @all = []
     @count = @@all.length
     # @species = cat or dog or fish
     @@all << self
