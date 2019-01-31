@@ -1,7 +1,7 @@
 class Owner
   # attr_writer
   # attr_reader
-  # attr_accessor
+  attr_accessor
   @@all = []
 
   def initialize
