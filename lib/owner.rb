@@ -13,9 +13,7 @@ class Owner
   #   @count += 1
   # end
 
-  def self.all
-    @@all
-  end
+
 
 
 
