@@ -8,10 +8,10 @@ class Owner
   def initialize
     @owner = []
     @count = 0
-    
+
     @@all << self
   end
-
+  
   def all_owners
     @@all_owners
   end
