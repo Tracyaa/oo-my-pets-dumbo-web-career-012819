@@ -10,6 +10,7 @@ class Owner
   end
 
   def all
+    
 
 
 
