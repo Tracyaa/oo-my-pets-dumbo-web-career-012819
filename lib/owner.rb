@@ -4,7 +4,7 @@ class Owner
   # attr_accessor :count
 
   @@all = []
-  @@count = 0
+
   def initialize(name)
 
 
