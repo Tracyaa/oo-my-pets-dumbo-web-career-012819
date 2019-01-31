@@ -17,6 +17,7 @@ class Owner
 
   def self.count
     self.length
+  end
 
 
 
