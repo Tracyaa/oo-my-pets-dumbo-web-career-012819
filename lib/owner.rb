@@ -9,9 +9,9 @@ class Owner
     @count = 1
     # @species = cat or dog or fish
   end
-  def count=()
-    @count += 1
-  end
+  
+  def
+
 
 
 
