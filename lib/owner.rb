@@ -13,6 +13,7 @@ class Owner
   def all
     @all << self
     @count += 1
+  end
 
 
 
