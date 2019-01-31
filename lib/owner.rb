@@ -58,7 +58,7 @@ class Owner
   end
 
   def sell_pets
-    self.all.each do 
+    self.all.each do |pet|
   end
 
 
