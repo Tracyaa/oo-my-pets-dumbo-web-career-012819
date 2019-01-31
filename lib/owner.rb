@@ -29,6 +29,7 @@ class Owner
   end
 
   def name=(name)
+    @name
 
 
 
