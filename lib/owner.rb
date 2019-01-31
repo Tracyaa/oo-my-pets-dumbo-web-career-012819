@@ -9,7 +9,6 @@ class Owner
 
 
     @@all << self
-    @@count = 0
   end
 
   def self.all
