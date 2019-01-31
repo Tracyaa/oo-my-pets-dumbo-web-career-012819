@@ -3,6 +3,7 @@ class Owner
   attr_reader
   attr_accessor
 
+  @@all_owners = []
   def initialize
     @owner = []
 
