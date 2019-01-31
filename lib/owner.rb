@@ -59,7 +59,8 @@ class Owner
   end
 
   def sell_pets
-    @pets.each do |pet_hash|
+    @pets.each do |pet_hash, arr|
+
   end
 
 
