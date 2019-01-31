@@ -6,7 +6,7 @@ class Owner
   @@all_owners = []
 
   def initialize
-    @count = @owner.length
+    @count += 1
 
     @@all << self
   end
