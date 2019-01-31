@@ -21,6 +21,8 @@ class Owner
 
   def reset_all
 
+  end
+
 
 
 
